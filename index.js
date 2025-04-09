@@ -33,6 +33,8 @@ let string = "Je suis une chaine de caractères";
 let number = 24;
 let boolean = true;
 
+
+
 // Tableau : il y' a des crochets []
 let array = ["Je", "suis", 47, true];
 
@@ -144,5 +146,7 @@ let num = 4;
     function add2(){
     console.log(num+ 2);
     }
+
+console.log(num);
 
 console.log(num);
